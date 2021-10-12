@@ -81,6 +81,7 @@ table {
   display: inline-block;
   position: absolute;
   top: 70px;
+  padding-left: 30px;
 }
 
 .div_profileimg {
