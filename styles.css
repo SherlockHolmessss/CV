@@ -79,11 +79,11 @@ table {
 
 .div_profileinfo {
   display: inline-block;
-  position: relative;
+  position: absolute;
   top: 70px;
 }
 
 .div_profileimg {
   display: inline-block;
-  padding: 10px 10px 10px 5%;
+  padding: 10px 10px 10px 30%;
 }
